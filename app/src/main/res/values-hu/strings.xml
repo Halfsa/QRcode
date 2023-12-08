@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QRcode</string>
+    <string name="main_button_scan">QR kód szkennelése</string>
+    <string name="main_button_generate">QR kód generálása</string>
+</resources>

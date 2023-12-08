@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">QRcode</string>
+    <string name="main_button_generate">Generate QR Code</string>
+    <string name="main_button_scan">Scan QR Code</string>
 </resources>
