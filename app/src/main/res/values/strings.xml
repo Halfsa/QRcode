@@ -2,4 +2,9 @@
     <string name="app_name">QRcode</string>
     <string name="main_button_generate">Generate QR Code</string>
     <string name="main_button_scan">Scan QR Code</string>
+    <string name="editTextcucc">Write your values here</string>
+    <string name="generalasgomb">Generate</string>
+    <string name="szkenneles">Scan</string>
+    <string name="vissza2">Back</string>
+    <string name="vissza">Back</string>
 </resources>

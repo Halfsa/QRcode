@@ -11,20 +11,21 @@
         android:id="@+id/etURL"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:hint="@string/editTextcucc"
         android:textSize="25sp" />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnGen"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Generálás"
+        android:text="@string/generalasgomb"
         android:textSize="25sp" />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnBackGen"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Vissza"
+        android:text="@string/vissza"
         android:textSize="25sp" />
 
     <ImageView

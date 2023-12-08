@@ -3,4 +3,9 @@
     <string name="app_name">QRcode</string>
     <string name="main_button_scan">QR kód szkennelése</string>
     <string name="main_button_generate">QR kód generálása</string>
+    <string name="editTextcucc">Kérem az adatot</string>
+    <string name="generalasgomb">Generálás</string>
+    <string name="vissza">Vissza</string>
+    <string name="szkenneles">Szkennelés</string>
+    <string name="vissza2">Vissza</string>
 </resources>

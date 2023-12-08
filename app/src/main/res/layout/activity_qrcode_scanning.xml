@@ -11,14 +11,14 @@
         android:id="@+id/btnScan"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Szkennelés"
+        android:text="@string/szkenneles"
         android:textSize="25sp" />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/btnBackScan"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Vissza"
+        android:text="@string/vissza2"
         android:textSize="25sp" />
     <TextView
         android:layout_width="match_parent"
